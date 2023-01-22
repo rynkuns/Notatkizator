@@ -1,3 +1,4 @@
+EKSPERYMENTALNY PROGRAM DO AUTOMATYCZNEJ TRANSKRYPCJI ZAJĘĆ ONLINE
 
 Program zapamiętuje ostatnie zarejestrowane współrzędne ekran do notowania.
 
